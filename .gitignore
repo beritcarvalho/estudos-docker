@@ -5,6 +5,8 @@
 
 # releases
 /mvc1/dist/*
+/mvc1/bin/
+/mvc1/obj/
 
 
 
