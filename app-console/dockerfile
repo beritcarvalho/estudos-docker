@@ -1,0 +1,5 @@
+FROM mcr.microsoft.com/dotnet/runtime:8.0
+LABEL version="1.0.0" decription="Console Aplication Resolucao Exercicio"
+WORKDIR /app
+COPY /dist /app
+ENTRYPOINT ["dotnet","app-console.dll"]

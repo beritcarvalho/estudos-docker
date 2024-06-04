@@ -492,3 +492,4 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 mvc1/obj/mvc1.csproj.nuget.dgspec.json
+/app-console/dist
